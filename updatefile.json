@@ -3,11 +3,11 @@
 
 {
          "name": "TH-VIP-01",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-01.ovpn"
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-VIP-001.ovpn"
       },
 {
          "name": "TH-VIP-02",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-TRUE-002.ovpn"
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-VIP-002.ovpn"
       },
       {
          "name": "TH-VIP-03",
@@ -83,10 +83,18 @@
       {
          "name": "TH-VIP-20",
          "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-020.ovpn"
+      },
+      {
+         "name": "TH-VIP-21",
+         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-01.ovpn"
+      },
+      {
+         "name": "TH-VIP-22",
+         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-TRUE-002.ovpn"
       }
 
       ],
-"message":"🚀 Config version - 9 \n📆 Latest update - 14/06/2023\n \n📌What's new 🔥\n \n📌VIP account 🇹🇭 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me//100009516875536  \n \nThank you for support us💙",
+"message":"🚀 Config version - 10 \n📆 Latest update - 16/06/2023\n \n📌What's new 🔥\n \n📌VIP account 🇹🇭 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me//100009516875536  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 9
+   "version": 10
 }
