@@ -2,100 +2,48 @@
    "files": [  
 
 {
-         "name": "TH-VIP-01",
-         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-VIP-001.ovpn"
+         "name": "TH-DTAC-01",
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP1.ovpn"
       },
 {
          "name": "TH-VIP-02",
-         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-VIP-002.ovpn"
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP2.ovpn"
       },
       {
          "name": "TH-VIP-03",
-         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/blob/main/TH-DTAC-VIP3.ovpn"
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-TRUE-VIP3.ovpn"
       },
 {
          "name": "TH-VIP-04",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-04.ovpn"
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP4.ovpn"
       },
       {
          "name": "TH-VIP-05",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-05.ovpn"
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP5.ovpn"
       },
 {
          "name": "TH-VIP-06",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-TRUE-006.ovpn"
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP1.ovpn"
       },
        {
          "name": "TH-VIP-07",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-TRUE-007.ovpn"
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP2.ovpn"
       },
       {
          "name": "TH-VIP-08",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-DTAC-GAME-VIP-15.ovpn"
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-TRUE-VIP3.ovpn"
       },
 {
          "name": "TH-VIP-09",
-         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-VIP-009.ovpn"
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP4.ovpn"
       },
        {
          "name": "TH-VIP-10",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH.VIP.010.ovpn"
-      },
-
-{
-         "name": "TH-VIP-11",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-TRUE-GAME-VIP-18.ovpn"
-      },
-
-{
-         "name": "TH-VIP-12",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-012.ovpn"
-      },
-      {
-         "name": "TH-VIP-13",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-013.ovpn"
-      },
-{
-         "name": "TH-VIP-14",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-014.ovpn"
-      },
-      {
-         "name": "TH-VIP-15",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-015.ovpn"
-      },
-{
-         "name": "TH-VIP-16",
-         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-VIP-016.ovpn"
-      },
-      {
-         "name": "TH-VIP-17",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-DTAC-GAME-VIP-017.ovpn"
-      },
-      {
-         "name": "TH-VIP-18",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-018.ovpn"
-      },
-
-{
-         "name": "TH-VIP-19",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-019.ovpn"
-      },
-      {
-         "name": "TH-VIP-20",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-020.ovpn"
-      },
-      {
-         "name": "TH-VIP-21",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-01.ovpn"
-      },
-      {
-         "name": "TH-VIP-22",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-TRUE-002.ovpn"
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP5.ovpn"
       }
 
       ],
-"message":"🚀 Config version - 15 \n📆 Latest update - 28/06/2023\n \n📌What's new 🔥\n \n📌VIP account 🇹🇭 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me//100009516875536  \n \nThank you for support us💙",
+"message":"🚀 Config version - 11 \n📆 Latest update - 11/07/2023\n \n📌What's new 🔥\n \n📌VIP account 🇹🇭 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me//100009516875536  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 15
-
+   "version": 11
 }
