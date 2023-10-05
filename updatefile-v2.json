@@ -2,48 +2,102 @@
    "files": [  
 
 {
-         "name": "SG-VIP-01",
+         "name": "SG-VIP-True-01",
          "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/MM-ATOM-TELENOR.ovpn"
-      },
+      }
+,
 {
-         "name": "TH-VIP-02",
+         "name": "TH-VIP-True-02",
          "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP2.ovpn"
-      },
+      }
+,
       {
-         "name": "TH-VIP-03",
+         "name": "TH-VIP-True-03",
          "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP3.ovpn"
-      },
+      }
+,
 {
-         "name": "TH-VIP-04",
+         "name": "TH-VIP-True-04",
          "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP4.ovpn"
-      },
+      }
+,
       {
-         "name": "TH-VIP-05",
+         "name": "TH-VIP-True-05",
          "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP5.ovpn"
-      },
+      }
+,
 {
-         "name": "TH-VIP-06",
+         "name": "TH-VIP-True-06",
          "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP6.ovpn"
-      },
+      }
+,
        {
-         "name": "TH-VIP-07",
+         "name": "TH-VIP-True-07",
          "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP7.ovpn"
-      },
+      }
+,
       {
-         "name": "TH-VIP-08",
+         "name": "TH-VIP-True-08",
          "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP8.ovpn"
-      },
+      }
+,
 {
-         "name": "SG-VIP-09",
+         "name": "SG-VIP-True-09",
          "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/SG-VIP3.ovpn"
-      },
+      }
+,      
+{
+         "name": "SG-VIP-DTAC-01",
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/MM-ATOM-TELENOR.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC-02",
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP2.ovpn"
+      }
+,
+      {
+         "name": "TH-VIP-DTAC-03",
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP3.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC-04",
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP4.ovpn"
+      }
+,
+      {
+         "name": "TH-VIP-DTAC-05",
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP5.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC-06",
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP6.ovpn"
+      }
+,
        {
+         "name": "TH-VIP-DTAC-07",
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP7.ovpn"
+      }
+,
+      {
+         "name": "TH-VIP-DTAC-08",
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/TH-DTAC-VIP8.ovpn"
+      }
+,
+{
+         "name": "SG-VIP-DTAC-09",
+         "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/SG-VIP3.ovpn"
+      }
+,
+{
          "name": "MM-ATOM-TELENOR",
          "url": "https://github.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/raw/main/MM-ATOM-TELENOR.ovpn"
       }
 
       ],
-"message":"🚀 Config version - 24 \n📆 Latest update - 03/10/2023\n \n📌What's new 🔥\n \n📌VIP account 🇹🇭 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me//100009516875536  \n \nThank you for support us💙",
+"message":"🚀 Config version - 24 \n📆 Latest update - 05/10/2023\n \n📌What's new 🔥\n \n📌VIP account 🇹🇭 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me//100009516875536  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 10
+   "version": 11
 }
